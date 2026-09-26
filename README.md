@@ -26,6 +26,3 @@ I'm a backend engineer with strong roots in `python` and security. Here you will
 - ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff) ![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)
 - ![Hyper](https://img.shields.io/badge/Hyper-000000?logo=hyper&logoColor=fff) ![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff) ![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
 - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
-
-
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevoodoo\&rank_icon=github\&show_icons=true\&hide=stars\&include_all_commits=true\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
